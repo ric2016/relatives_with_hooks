@@ -17,10 +17,10 @@ Intended as a base for other custom modules. There are currently no standalone f
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.5
+* Current version: 1.7.9.6
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
-* Download the zipped module, including all required dependencies, [here](https://cissee.de/families/families.1.7.9.5.zip).
+* Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
 * Issues also via <https://github.com/ric2016/relatives_with_hooks/issues>
 
