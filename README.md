@@ -1,5 +1,5 @@
 
-# Webtrees Custom Module: Families
+# Webtrees Custom Module: ⚶ Families
 
 This [webtrees](https://www.webtrees.net/) custom module provides an extended 'Families' tab, with hooks for other custom modules.
 The project’s website is [cissee.de](https://cissee.de).
@@ -21,7 +21,7 @@ Mainly intended as a base for other custom modules. One feature is available ind
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.7
+* Current version: 1.7.9.9
 * Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
 * Download the zipped module, including all required dependencies, [here](https://cissee.de/cissee.webtrees.custom.models.latest.zip).
@@ -38,7 +38,7 @@ Mainly intended as a base for other custom modules. One feature is available ind
 ### License<a name="license"/>
 
 * **relatives_with_hooks: a webtrees custom module**
-* Copyright (C) 2016 to 2017 Richard Cissée
+* Copyright (C) 2016 to 2018 Richard Cissée
 * Derived from **webtrees** - Copyright (C) 2010 to 2016  webtrees development team.
 * Derived from **webtrees-geneajaubart** - Copyright (C) 2009 to 2016  Jonathan Jaubart.
 
