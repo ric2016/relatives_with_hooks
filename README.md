@@ -21,16 +21,17 @@ Mainly intended as a base for other custom modules. One feature is available ind
 
 ### Download<a name="download"/>
 
-* Current version: 1.7.9.9
-* Based on and tested with webtrees 1.7.9, may also work with older 1.7.x versions.
+* Current version: 1.7.9.10
+* Based on and tested with webtrees 1.7.10, may also work with older 1.7.x versions.
 * Requires the Hooks module ('hooks_repackaged', or the original Hooks module via webtrees-geneajaubart).
-* Download the zipped module, including all required dependencies, [here](https://cissee.de/vesta.latest.zip).
+* Requires the 'vesta_common_lib' module.
+* Download the zipped module, including all related modules, [here](https://cissee.de/vesta.latest.zip).
 * Support, suggestions, feature requests: <ric@richard-cissee.de>
 * Issues also via <https://github.com/ric2016/relatives_with_hooks/issues>
 
 ### Installation<a name="installation"/>
 
-* Unzip the files and copy them to the modules_v3 folder of your webtrees installation. All required modules are included in the zip file. It's safe to overwrite the respective directories if they already exist (they are bundled with other custom modules as well), as long as other custom models using these dependencies are also upgraded to their respective latest versions.
+* Unzip the files and copy them to the modules_v3 folder of your webtrees installation. All related modules are included in the zip file. It's safe to overwrite the respective directories if they already exist (they are bundled with other custom modules as well), as long as other custom models using these dependencies are also upgraded to their respective latest versions.
 * Enable the extended 'Families' module via Control Panel -> Modules -> Module Administration -> Families.
 * Enable the Hooks module via Control Panel -> Modules -> Module Administration -> Hooks. Make sure all hooks are selected (in the preferences of the Hooks module).				
 * Configure the visibility of the old and the extended 'Families' tab via Control Panel -> Modules -> Tabs (they both appear as 'Families' here - usually, you'll want to use only one of them. You may just disable the old 'Families' module altogether).
